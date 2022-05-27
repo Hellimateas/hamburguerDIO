@@ -228,7 +228,7 @@ a:hover{
   width: 400px;
   margin: 3rem 0;
   font-family: 'Amatic SC';
-  background-image: url('../../room.jpg');
+  background-image: url('../img/room.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
